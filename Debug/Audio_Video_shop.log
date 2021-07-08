@@ -1,0 +1,16 @@
+﻿  Audio_Video_shop.cpp
+D:\ШAГ\дз\audiovideoshop\Audio_Video_shop\Audio_Video_shop.cpp(82,26): warning C4018: '<': signed/unsigned mismatch
+D:\ШAГ\дз\audiovideoshop\Audio_Video_shop\Audio_Video_shop.cpp(102,26): warning C4018: '<': signed/unsigned mismatch
+D:\ШAГ\дз\audiovideoshop\Audio_Video_shop\Audio_Video_shop.cpp(122,26): warning C4018: '<': signed/unsigned mismatch
+D:\ШAГ\дз\audiovideoshop\Audio_Video_shop\Audio_Video_shop.cpp(153,26): warning C4018: '<': signed/unsigned mismatch
+D:\ШAГ\дз\audiovideoshop\Audio_Video_shop\Audio_Video_shop.cpp(178,26): warning C4018: '<': signed/unsigned mismatch
+D:\ШAГ\дз\audiovideoshop\Audio_Video_shop\Audio_Video_shop.cpp(230,30): warning C4018: '<': signed/unsigned mismatch
+D:\ШAГ\дз\audiovideoshop\Audio_Video_shop\Audio_Video_shop.cpp(263,26): warning C4018: '<': signed/unsigned mismatch
+D:\ШAГ\дз\audiovideoshop\Audio_Video_shop\Audio_Video_shop.cpp(296,26): warning C4018: '<': signed/unsigned mismatch
+D:\ШAГ\дз\audiovideoshop\Audio_Video_shop\Audio_Video_shop.cpp(329,26): warning C4018: '<': signed/unsigned mismatch
+D:\ШAГ\дз\audiovideoshop\Audio_Video_shop\Audio_Video_shop.cpp(356,7): warning C4101: 'min_ind': unreferenced local variable
+D:\ШAГ\дз\audiovideoshop\Audio_Video_shop\Audio_Video_shop.cpp(392,26): warning C4018: '<': signed/unsigned mismatch
+D:\ШAГ\дз\audiovideoshop\Audio_Video_shop\Audio_Video_shop.cpp(460,30): warning C4018: '<': signed/unsigned mismatch
+D:\ШAГ\дз\audiovideoshop\Audio_Video_shop\Audio_Video_shop.cpp(462,18): warning C4018: '<': signed/unsigned mismatch
+D:\ШAГ\дз\audiovideoshop\Audio_Video_shop\Audio_Video_shop.cpp(490,30): warning C4018: '<': signed/unsigned mismatch
+  Audio_Video_shop.vcxproj -> D:\ШAГ\дз\audiovideoshop\Audio_Video_shop\Debug\Audio_Video_shop.exe
